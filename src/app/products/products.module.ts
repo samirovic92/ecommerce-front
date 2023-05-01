@@ -14,7 +14,6 @@ import {ProductsListComponent} from './components/products-list/products-list.co
     ProductsListComponent
   ],
   imports: [
-    CommonModule,
     SharedModule,
     ProductsRoutingModule
   ]
